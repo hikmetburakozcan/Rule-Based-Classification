@@ -18,3 +18,7 @@ It is wanted to determine how much a 25-year-old male user, who is an iOS user f
 * **SEX** – The gender of the client
 * **COUNTRY** – Customer's country
 * **AGE** – The age of the customer
+
+## GOAL
+
+![Rulu_Based_Classification](https://user-images.githubusercontent.com/98950092/193019952-422e89a1-a4b0-4b98-8507-7ab4d5a7bbdf.png)
